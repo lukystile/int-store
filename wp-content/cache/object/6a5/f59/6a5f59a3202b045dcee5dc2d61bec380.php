@@ -1,0 +1,1 @@
+/é^^<?php exit; ?>a:1:{s:7:"content";a:4:{s:14:"_alp_processed";a:1:{i:0;s:10:"1576529771";}s:17:"_top_nav_excluded";a:1:{i:0;s:0:"";}s:17:"_cms_nav_minihome";a:1:{i:0;s:0:"";}s:16:"_wpml_word_count";a:1:{i:0;s:42:"{"total":2,"to_translate":{"en":2,"et":2}}";}}}

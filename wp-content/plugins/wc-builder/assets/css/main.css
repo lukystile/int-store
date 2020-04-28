@@ -1,0 +1,57 @@
+.woocommerce  div.product .wpbforwpbakery-woo-template-builder div.images {
+	width: 100% !important;
+}
+.owp-product-nav-wrap {
+	display: none;
+}
+.wpbforwpbakerypro-woocommerce-checkout #order_review_heading {
+	width: 100%;
+}
+.wpbforwpbakerypro_product_social_share .fa {
+	font-family: FontAwesome;
+}
+
+/*Social Share*/
+.wpbforwpbakerypro_product_social_share {
+  align-items: center;
+  display: flex;
+  margin-top: 32px;
+}
+.wpbforwpbakerypro_product_social_share h2 {
+  color: #666666;
+  font-size: 18px;
+  margin: 0;
+  padding-right: 10px;
+}
+.wpbforwpbakerypro_product_social_share ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.wpbforwpbakerypro_product_social_share ul li{
+    display: inline-block;
+    margin-right: 15px;
+}
+.wpbforwpbakerypro_product_social_share ul li:last-child{
+    margin-right: 0 !important;
+}
+.wpbforwpbakerypro_product_social_share ul li a {
+  color: #797979;
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  transition: all 0.3s ease 0s;
+}
+.wpbforwpbakerypro_product_social_share ul li a:hover{
+  color: #ff4136;
+}
+.wpbforwpbakery_archive_product > .woocommerce-result-count,
+.wpbforwpbakery_archive_product > .woocommerce-ordering{
+	display: none;
+}
+.wpbforwpbakerypro_billing_info  .woocommerce-Message.woocommerce-Message--info{
+	display: none;
+}
+.woocommerce div.wpbforwpbakery_single_product.product div.images {
+    width: 100% !important;
+}

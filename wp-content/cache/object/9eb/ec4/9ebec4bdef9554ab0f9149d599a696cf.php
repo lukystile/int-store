@@ -1,0 +1,1 @@
+Ñâ^^<?php exit; ?>a:1:{s:7:"content";a:1:{s:4:"data";a:3:{i:0;s:6:"cart-2";i:1;s:4:"page";i:2;b:1;}}}

@@ -1,0 +1,1 @@
+{"aesti.ee":"m1","www.aesti.ee":"m1","AESTI.EE":"m1"}

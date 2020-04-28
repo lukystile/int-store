@@ -1,0 +1,23 @@
+0�^^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:3154;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2019-12-17 03:05:32";s:13:"post_date_gmt";s:19:"2019-12-17 03:05:32";s:12:"post_content";s:3666:"[vc_row col_right_left_space="yes"][vc_column][vc_column_text css=".vc_custom_1578552659844{padding-right: 15% !important;padding-left: 15% !important;}"]
+<h4 style="text-align: center;"><span style="font-weight: 400;">Aesti turba ilutooted on valmistatud 100% puhtast, orgaanilisest ja rikkaliku koostisega turbast.</span></h4>
+[/vc_column_text][/vc_column][/vc_row][vc_row col_right_left_space="yes"][vc_column width="1/2"][vc_single_image image="3515" img_size="large" alignment="right"][/vc_column][vc_column width="1/2"][vc_column_text css=".vc_custom_1582190221159{padding-top: 15% !important;padding-right: 15% !important;padding-left: 15% !important;}"]
+<p style="text-align: center;"><b>Tootearendus</b></p>
+<p style="text-align: left;"><span style="font-weight: 400;">Parimate toodete väljatöötamiseks teeme pidevalt koostööd Tartu Ülikooli ja Tallinna Tehnikaülikooli teadlastega. Teadurid on viinud läbi mitmeid labaratoorseid uuringuid, leidmaks parima koostisega turvast, mis oleks iluhoolduseks parima ja efektiivseima koostisega. Saavutamaks kõrgeimat kvaliteeti turba koostises võtsime ette pika arendusprotsessi, arendamaks välja tehnoloogia, mis lubaks Eesti turvast filtreerida.</span></p>
+[/vc_column_text][/vc_column][/vc_row][vc_row col_right_left_space="yes"][vc_column width="1/2"][vc_column_text css=".vc_custom_1582190209064{padding-top: 15% !important;padding-right: 15% !important;padding-bottom: 15% !important;padding-left: 15% !important;}"]
+<p style="text-align: center;"><b>Tootmine</b></p>
+<p style="text-align: left;"><span style="font-weight: 400;">Aesti turba ilutooted valmivad akrediteeritud laboris, on laboratoorselt testitud ja Terviseameti poolt heaks kiidetud garanteerides sellega alati toodete kõrgeima kvaliteedi. </span></p>
+<p style="text-align: left;"><span style="font-weight: 400;">Kõike tootmisesse saabuvate toorainete kvaliteeti hinnatakse labaratoorselt, et pakkuda kõrgeimat kvaliteeti. Aesti ilutooted tootearendus ja tootmine toimub Eestis.</span></p>
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_single_image image="3520" img_size="large"][/vc_column][/vc_row][vc_row full_width="stretch_row" col_right_left_space="yes"][vc_column][vc_empty_space][vc_column_text css=".vc_custom_1582190305189{padding-right: 15% !important;padding-left: 15% !important;}"]
+<p style="text-align: center;"><b>Sertifikaadid</b></p>
+<p style="text-align: left;"><span style="font-weight: 400;">2014. aastal väljastati Aesti filtreeritud Eesti terviseturbale Euroopa Liidu kosmeetika ohutusnõude tunnustatuim dokument, mis tõestab turba kasulikkust inimese nahale.</span></p>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" col_right_left_space="yes"][vc_column][vc_single_image image="3644" css=".vc_custom_1582191567932{padding-left: 15% !important;}"][vc_empty_space][vc_column_text css=".vc_custom_1582190357601{padding-right: 15% !important;padding-left: 15% !important;}"]
+<p style="text-align: center;"><b>Väärtused</b></p>
+
+<ul>
+ 	<li>Kõik tooted on looduslikud, ei sisalda sulfaate, värv- ega säilitusaineid.</li>
+ 	<li>Aesti armastab väga loomi, seega tooted ei sisalda loomseid osi ja ei ole mitte mingil määral testitud loomadel.</li>
+ 	<li>Aesti toodete tootmine toimub vastutustundlikult ja loodust kahjustamata, kõik võimalikud tootmisjäägid lähevad taaskasutamisse.</li>
+</ul>
+&nbsp;
+
+<strong>Meie missiooniks Aestis on valmistada Eesti turbast ilutooteid, mis on looduslikult puhtad ja kasulikud nii nagu üks raba oma olemuselt ise on.</strong>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]";s:10:"post_title";s:6:"Teadus";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:8:"teadus-2";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-02-20 09:39:33";s:17:"post_modified_gmt";s:19:"2020-02-20 09:39:33";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:39:"http://staging.aesti.ee//?page_id=3154/";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

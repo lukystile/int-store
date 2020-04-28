@@ -1,0 +1,38 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">portfolio</custom-type>
+    <custom-type translate="1">testimonial</custom-type>
+    <custom-type translate="1">team</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">portfolio_category</taxonomy>
+    <taxonomy translate="1">team_category</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="copy">page_model</custom-field>
+    <custom-field action="copy">enable_new_page_title</custom-field>
+    <custom-field action="translate">new_page_title</custom-field>
+    <custom-field action="translate">page_subheading</custom-field>
+    <custom-field action="copy">select_portfolio_masonry_type</custom-field>
+    <custom-field action="translate">testimonial_profession</custom-field>
+    <custom-field action="copy">testimonial_star</custom-field>
+    <custom-field action="translate">group_member_profession</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="option_tree">
+      <key name="logo_upload"/>
+      <key name="retina_logo_upload"/>
+      <key name="login_logo"/>
+      <key name="front_logo_upload"/>
+      <key name="front_retina_logo_upload"/>
+      <key name="meta_keywords"/>
+      <key name="meta_descriptions"/>
+      <key name="portfolio_name"/>
+      <key name="portfolio_slug"/>
+      <key name="copyright_text"/>
+      <key name="404_page_heading"/>
+      <key name="404_page_content"/>
+      <key name="404_page_image"/>
+    </key>
+  </admin-texts>
+</wpml-config>

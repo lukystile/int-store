@@ -1,0 +1,1 @@
+ет^^<?php exit; ?>a:1:{s:7:"content";s:63:"a:1:{s:27:"wp-pagenavi/wp-pagenavi.php";s:14:"__return_false";}";}

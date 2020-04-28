@@ -1,0 +1,4 @@
+2020-02-04T10:40:20+00:00 CRITICAL Allowed memory size of 402653184 bytes exhausted (tried to allocate 29364224 bytes) in /www/apache/domains/www.aesti.ee/htdocs/staging/wp-content/plugins/w3-total-cache/Cache_File.php on line 119
+
+2020-02-04T10:42:08+00:00 CRITICAL Allowed memory size of 402653184 bytes exhausted (tried to allocate 81530880 bytes) in /www/apache/domains/www.aesti.ee/htdocs/staging/wp-content/plugins/w3-total-cache/Cache_File.php on line 119
+
